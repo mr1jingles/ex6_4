@@ -3,6 +3,6 @@ import (
 	"fmt"
 )
 
-func PrintHello() {
-	fmt.Println("Hello world!")
+func PrintHello(name string) {
+	fmt.Printf("Hello, %s!\n", name)
 }
