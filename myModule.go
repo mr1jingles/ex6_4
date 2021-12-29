@@ -1,4 +1,4 @@
-package myModule
+package ex6_4
 import (
 	"fmt"
 )
